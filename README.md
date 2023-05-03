@@ -18,6 +18,8 @@ Portanto, a implementação do chatbot em faculdades simplifica a comunicação 
 Ainda mais, atrai novos estudantes, proporcionando uma experiência diferenciada com o acesso imediato e satisfatório à instituição.
 Essa relação mais próxima humaniza o atendimento virtual com o uso de ferramentas inteligentes que entendem o que o usuário precisa e devolvem respostas personalizadas.
 
+![Boas Vindas identificação do usúario](https://user-images.githubusercontent.com/132007913/236063740-83491b10-51fb-42c3-895a-d0ab11b2be51.png)
+
 
 **isso está escrito em negrito**
 
