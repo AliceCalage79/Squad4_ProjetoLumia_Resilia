@@ -1,0 +1,1 @@
+# Squad4_ProjetoLumia_Resilia
