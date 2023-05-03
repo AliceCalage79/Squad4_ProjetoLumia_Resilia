@@ -17,6 +17,8 @@ Ou seja, o chatbot torna o banco de dados da faculdade mais rico, com um histór
 Portanto, a implementação do chatbot em faculdades simplifica a comunicação com os alunos.
 Ainda mais, atrai novos estudantes, proporcionando uma experiência diferenciada com o acesso imediato e satisfatório à instituição.
 Essa relação mais próxima humaniza o atendimento virtual com o uso de ferramentas inteligentes que entendem o que o usuário precisa e devolvem respostas personalizadas.
+
+
 **Fluxograma do Sistema Lumia**
 
 ![image](https://user-images.githubusercontent.com/132007913/236064754-6533af74-aef4-4433-8d95-6719c0da15e9.png)
