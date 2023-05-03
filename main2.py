@@ -1,8 +1,6 @@
 from biblioteca2 import identificaUsuario
 
-identificaUsuario()    
-
-                   # função que retorna um texto de boas vindas, solicitando identificação do usuario
+identificaUsuario()      # função que retorna um texto de boas vindas, solicitando identificação do usuario
 nomeUsuario =input()                         # variavel recebe o nome do usuario 
 inicio =True
 while inicio ==True:                         #laço que inicia o programa controlado pela variavel boleana inicio usado para opcao voltar
