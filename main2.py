@@ -5,13 +5,14 @@ nomeUsuario =input()                         # variavel recebe o nome do usuario
 inicio =True
 while inicio ==True:
      primeiraPergunta(nomeUsuario)#laço que inicia o programa controlado pela variavel boleana inicio usado para opcao voltar
-                     #variavel guarda a opcao de curso desejada pelo usuario
-    contador = 5                               # contador implementado para controlar o numero de vezes que o usuario coloca opcao invalida, tem 5 tentativas depois sai
+     print(mostraTodoCursos())#variavel guarda a opcao de curso desejada pelo usuario
+     operacaoCurso = input()
+    contador = 5   # contador implementado para controlar o numero de vezes que o usuario coloca opcao invalida, tem 5 tentativas depois sai
     while opcaoCurso  not in ('1','2','3','4'):#laco que identifica se o usuario colocou uma opcao valida, e mostra as opcoes novamente
-        if contador >=2 :                    #condiçao que mostra se o usuario ja digitou as 5 tentativas 
-             contador = contador-1              # contador vai decrementando de 5 ate 1 tentativas
-             #def mostra mensagem de opcao invalida  
-             #def mostra opcoes de curso disponiveis
+        if contador >=2 : #condiçao que mostra se o usuario ja digitou as 5 tentativas 
+             contador = contador-1  # contador vai decrementando de 5 ate 1 tentativas
+             validarUsuario(nomeUsuario, contador) #def mostra mensagem de opcao invalida  
+             print(mostraTodoCurso)#def mostra opcoes de curso disponiveis
              opcaoCurso = input()  #usuario vai digitando ate opcao de curso ser valida
         else:
                #caso digite 5 vezes opcoes invalidas o sistema sai   
