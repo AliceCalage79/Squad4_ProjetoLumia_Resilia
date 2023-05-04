@@ -25,13 +25,28 @@ Essa relação mais próxima humaniza o atendimento virtual com o uso de ferrame
 
 
 
-**isso está escrito em negrito**
+**O sistema inicia com:**
+- Bem-vindo(a) a Minha Faculdade,
+  Por favor, me diga como gostaria de ser chamado(a):
+- Olá,(nomeUsuario),Eu sou a atendente virtual Lumia. Irei esclarecer as principais dúvidas na,
+  ---
+  hora de escolher uma graduação.Selecione um dos nossos cursos disponíveis para que eu possa falar mais sobre ele.
+  1. Pedagogia
+  2. Direito
+  3. Analise e Desenvolvimento de Sistemas
+  4. Encerrar
+  ---
+- Você escolheu a graduação em (nome do curso). Veja abaixo as principais dúvidas,
+  Para acessar as informações, digite a opção desejada:
+  ---
+  1. Quem é o público alvo da graduação em (nome do curso)?
+  2. Em que área posso atuar com a graduação em (nome do curso)?
+  3. Qual a média salarial de um profissional na área de (nome do curso)?
+  4. Voltar
+  ---
+- Resposta
+- Deseja:
+  1. Retornar ao início  
+  2. Encerrar
 
-- Essa é uma lista
-- Essa é a segunda linha da minha lista
-- Essa é a terceira linha da minha lista
----
-1. Essa é uma lista numerada
-2. Essa é a segunda linha da minha lista numerada
-3. essa é a terceira linha
-# Alice
+
