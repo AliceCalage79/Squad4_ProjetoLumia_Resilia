@@ -28,7 +28,7 @@ Essa relação mais próxima humaniza o atendimento virtual com o uso de ferrame
 ### O sistema inicia com:
 - Bem-vindo(a) a Minha Faculdade,
   Por favor, me diga como gostaria de ser chamado(a):
-  ---
+  
 - Olá,(nomeUsuario),Eu sou a atendente virtual Lumia. Irei esclarecer as principais dúvidas na hora de escolher uma graduação.
   Selecione um dos nossos cursos disponíveis para que eu possa falar mais sobre ele.
   
