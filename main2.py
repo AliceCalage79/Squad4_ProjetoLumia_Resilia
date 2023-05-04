@@ -1,4 +1,4 @@
-from biblioteca2 import identificaUsuario
+from biblioteca2 import *
 
 identificaUsuario()      # função que retorna um texto de boas vindas, solicitando identificação do usuario
 nomeUsuario =input()                         # variavel recebe o nome do usuario 
