@@ -3,7 +3,8 @@ from biblioteca2 import identificaUsuario
 identificaUsuario()      # função que retorna um texto de boas vindas, solicitando identificação do usuario
 nomeUsuario =input()                         # variavel recebe o nome do usuario 
 inicio =True
-while inicio ==True:                         #laço que inicia o programa controlado pela variavel boleana inicio usado para opcao voltar
+while inicio ==True:
+     primeiraPergunta(nomeUsuario)#laço que inicia o programa controlado pela variavel boleana inicio usado para opcao voltar
                      #variavel guarda a opcao de curso desejada pelo usuario
     contador = 5                               # contador implementado para controlar o numero de vezes que o usuario coloca opcao invalida, tem 5 tentativas depois sai
     while opcaoCurso  not in ('1','2','3','4'):#laco que identifica se o usuario colocou uma opcao valida, e mostra as opcoes novamente
