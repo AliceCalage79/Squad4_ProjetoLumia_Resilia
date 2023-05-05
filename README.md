@@ -3,10 +3,10 @@
 ## CHAT BOT PARA FACULDADES
 ---
 ## EQUIPE
-### Alice Calage - Pessoa Co Facilitadora
-### Cristhian Monteiro - Pessoa Gestora do Conhecimento
-### Wedson Tavares - Pessoa Gestora de Gente e Engajamento
-### Wdson Danrlei - Pessoa Colaboradora
+### Alice Calage - Pessoa Co Facilitadora.
+### Cristhian Monteiro - Pessoa Gestora do Conhecimento.
+### Wedson Tavares - Pessoa Gestora de Gente e Engajamento.
+### Wdson Danrlei - Pessoa Colaboradora.
 ---
 ### CHAT BOT PARA FACULDADES
 A estratégia de se comunicar com o público de maneira fluida e imediata, colocando em prática o atendimento virtual humanizado, é possível através do uso de chatbots na faculdade. Os assistentes virtuais inteligentes são capazes de entregar as soluções ideais para seus alunos em um atendimento.
