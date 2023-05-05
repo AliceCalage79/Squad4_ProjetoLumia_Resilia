@@ -50,10 +50,10 @@ while inicio ==True:
           resposta = input()
                          #Função que exibe as respostas sobre todas as alternativas.
              
-     while resposta not in ('1','2'):
-          print("\033[1;36m"+"|*************************************|"+"\033[0;0m")
-          print ('\n'+"\033[1;31m"+'Opção inválida.'+'\033[0;0m'+'Suas opções são: \n1.Retornar ao início \n2.Encerrar')     
-          resposta =input()
+          while resposta not in ('1','2'):
+               print("\033[1;36m"+"|*************************************|"+"\033[0;0m")
+               print ('\n'+"\033[1;31m"+'Opção inválida.'+'\033[0;0m'+'Suas opções são: \n1.Retornar ao início \n2.Encerrar')     
+               resposta =input()
           if resposta == '1':
                inicio = True
           else:
