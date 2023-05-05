@@ -49,5 +49,7 @@ Essa relação mais próxima humaniza o atendimento virtual com o uso de ferrame
 - Deseja:
   1. Retornar ao início  
   2. Encerrar
-
+---
+**Link do slide da apresentação.**
+-https://www.canva.com/design/DAFhtOpkfU0/te5KaV7F7iw3BFJgkaAmsg/edit?utm_content=DAFhtOpkfU0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
